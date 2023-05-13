@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Lobster+Two&family=Tillana:wght@500&family=Yeon+Sung&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 15px;
+}
+
+html {
+  background: url("https://www.shutterstock.com/shutterstock/videos/1089327071/thumb/1.jpg?ip=x480");
+}
+
+header {
+  width: 92%;
+  color: #5bb4d2;
+  padding: 2px 10px 12px 8px;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 20px #48c5c7;
+  background-color: #000000ff;
+  border-radius: 8px;
+  text-align: center;
+  font-family: 'Lobster Two', cursive;
+  border-style: double ridge double ridge;
+
+}
+
+.entries > h2 {
+  font-family: 'Chelsea Market', cursive;
+  color: #35f8eb;
+}
+.entries {
+  height: 100%;
+  width: 92%;
+  padding: 2px 10px 12px 12px;
+  color: #35f8eb;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 20px #35f8eb;
+  border-radius: 12px;
+  background: #000000ff;
+  border-style: double ridge double ridge;
+  
+}
+
+p {
+  font-family: 'Tillana', cursive;
+  color: #35f8eb;
+}
+
+button {
+  padding: 2px 10px 3px 8px;
+  margin-left: 30px;
+  margin-right:30px;
+  margin-bottom: 12px;
+  border: 10px ridge #95e0f9;
+  border-radius: 10px;
+  background: #124c54ff;
+  color: #adfeff;
+  font-family: 'Yeon Sung', cursive;
+}
+
+footer {
+  border-color: #95e0f9;
+  background: #000000;
+  color: #66f7f9;
+  text-align: center;
+  font-size: larger;
+  padding: 10px ;
+  margin-top: 30px;
+  border-style: dashed;
+}
+
+img {
+  border: 5px groove #2a697e;
+  border-radius: 10px;
+  background-color: #4ea5caff;
+
+  
+}
+
+#glitch {
+  visibility: hidden;
+}
+
+#games {
+  visibility: hidden;
+}
+
+#heels {
+  visibility: hidden;
+}
